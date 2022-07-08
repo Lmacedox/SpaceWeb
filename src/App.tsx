@@ -1,7 +1,8 @@
-import React from "react";
 import { Routes } from "./router";
 
 function App() {
+  console.log(<Routes />);
+
   return (
     <div className="App">
       <Routes />

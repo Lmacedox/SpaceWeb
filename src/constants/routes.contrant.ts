@@ -1,16 +1,15 @@
 import { HomePage } from "../pages/index";
 
-import { Routers } from "../models/Routers.model";
+import { Routers } from "../models/index";
 
 const paths = {
-  home: () => "/",
+  home: () => "/lucas",
 };
 
 const routes = [
   {
     path: paths.home(),
     component: HomePage,
-    title: "Initial Page - Home",
   },
 ] as Routers[];
 

@@ -1,1 +1,1 @@
-export { Routes } from "./router";
+export { RoutesMapping as Routes } from "./router";

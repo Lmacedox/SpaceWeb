@@ -1,1 +1,1 @@
-export { paths, default as routes } from "./routes.contrant";
+export { paths, default as routesArray } from "./routes.contrant";
