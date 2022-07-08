@@ -3,7 +3,7 @@ import { HomePage } from "../pages/index";
 import { Routers } from "../models/index";
 
 const paths = {
-  home: () => "/lucas",
+  home: () => "/",
 };
 
 const routes = [
